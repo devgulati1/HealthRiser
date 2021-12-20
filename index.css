@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to right, #ec9ec0, white);
+}
+
+.logincontainer {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Login {
+  height: 50%;
+  width: 30%;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+html,
+body {
+  background: linear-gradient(to right, #ff0080, white);
+}
+img-profile {
+  height: 50%;
+}
+
+div {
+  max-width: 50;
+}

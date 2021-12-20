@@ -1,0 +1,17 @@
+body {
+  background-color: #ec9ec0;
+}
+
+.jumbotron {
+  background-image: url(images/corona-5174671_1280-min.jpg);
+  background-position: center;
+  background-size: cover;
+  font-weight: 600;
+}
+
+.inner-jumbotron-opacity {
+  /* height: 100%; */
+  /* background-color: black;
+    opacity: 0.5;
+    height: calc(100% + 4rem); */
+}
